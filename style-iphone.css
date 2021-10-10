@@ -1,0 +1,164 @@
+@media( max-width:740px){
+    .nav > li{
+        display:none;
+}
+
+.slider,.size-img,.slides,.slide,html {
+        height:350px;
+        width:375px;
+}
+
+.navigation-manual{
+    margin-top: -50px;
+}
+
+.size-img{
+    width:375px;
+    height:350px;opacity: 1;
+}
+
+.special-img{
+     width:375px;
+       height:350px
+}
+
+.text-special{
+    width:300px;
+    height:120px;
+    top:185px;
+    right:45px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.2;
+    font-weight: 1000;
+ }
+
+.title-sp{
+    font-size: 13px;
+    line-height: 13px;    
+}
+
+ .logo-1{
+   display:none;
+}
+
+.conects{
+    position:fixed;
+    
+    top:350px;
+    width:50px;
+    height:150px;
+}
+
+.content-section{
+        padding-top:40px;
+        padding-bottom: 20px;
+        padding-left:20px;
+         padding-right: 20px;
+         
+         
+}
+
+.order{
+     margin-top:120px;
+
+}
+
+.section-order{
+  padding: 0;
+}
+
+.drink .element{
+    width:365px;
+    height:90px;
+    display:block;
+    margin-bottom: 25px;
+}
+
+.prize{
+    display:inline-block;
+    color:white;
+   position:absolute;
+   width:230px;
+}
+
+ .name{
+    font-size: 18px;
+    letter-spacing: 0.2px;
+}
+
+.ingredients{
+    font-size:15px;
+}
+
+.slide .special-img{
+    width:1550px;
+    height:350px;
+    padding-top:0;
+    padding-bottom: 0;
+    padding-left:0;
+    background-image:none;
+    padding-right:0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    display: inline-block;
+}
+
+.right-nav{
+    display:none;
+}
+
+.header-coffe{
+
+    display: block;
+
+}
+
+.header-logo{
+    display: block;
+    width:100%;
+   text-align:center;
+}
+
+.edge-pay-top{
+    border:none;
+    width:100%;
+    height:65px;
+    position: absolute;
+  transform: translateY(-100px);
+}
+
+.btb-btn{
+    display:none;
+}
+ 
+.rbt-list-holder,.rbt-list{
+    display:none;
+}
+
+.contact-usf{
+    padding:0;
+}
+
+.left-ct{
+    flex:1;
+    margin-top:30px;
+    margin-left:0;
+    padding:0;
+    height:480px;
+}
+
+.block-info{
+    margin-bottom:10px;
+}
+
+.info{
+height:45%;
+ }
+
+.map{
+    display: block !important;
+    margin: 0 !important;
+}
+}
